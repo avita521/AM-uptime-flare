@@ -4,7 +4,7 @@ const pageConfig = {
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
     { link: 'https://am.809098.xyz', label: 'Blog', highlight: true },
-    { link: 'https://huggingface.co/spaces/Frank250/qinglong', label: 'David' },
+    { link: 'https://huggingface.co/spaces/Frank250/qinglong', label: 'David', highlight: true },
   ],
 }
 
