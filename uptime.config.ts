@@ -3,7 +3,7 @@ const pageConfig = {
   title: "David's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://am.809098.xyz', label: '个人博客', highlight: true },
+    { link: 'https://am.809098.xyz', label: 'Blog', highlight: true },
     { link: 'https://huggingface.co/spaces/Frank250/qinglong', label: 'David' },
   ],
 }
