@@ -3,8 +3,8 @@ const pageConfig = {
   title: "David's Status Page",
   // Links shown at the header of your status page, could set `highlight` to `true`
   links: [
-    { link: 'https://am.809098.xyz', label: 'Blog', highlight: true },
-    { link: 'https://huggingface.co/spaces/Frank250/qinglong', label: 'David', highlight: true },
+    { link: 'https://huggingface.co/spaces/Frank250/hoho', label: 'Blog', highlight: true },
+    { link: 'https://frank250-hoho.hf.space/login', label: 'David', highlight: true },
   ],
 }
 
@@ -22,7 +22,7 @@ const workerConfig = {
       // `method` should be `TCP_PING` for tcp monitors
       method: 'GET',
       // `target` should be `host:port` for tcp monitors
-      target: 'https://frank250-qinglong.hf.space',
+      target: 'https://frank250-hoho.hf.space',
       timeout: 10000,
     },
   ],
