@@ -32,7 +32,7 @@ export default function Header() {
               variant="gradient"
               gradient={{ from: 'blue', to: 'cyan', deg: 90 }}
             >
-              服务监控
+              Service Monitoring 🎉
             </Text>
           </a>
         </div>
